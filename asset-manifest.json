@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robocat-searchfunc/static/css/main.fb2116b5.chunk.css",
+    "main.js": "/robocat-searchfunc/static/js/main.28fbca34.chunk.js",
+    "main.js.map": "/robocat-searchfunc/static/js/main.28fbca34.chunk.js.map",
+    "runtime-main.js": "/robocat-searchfunc/static/js/runtime-main.a257f370.js",
+    "runtime-main.js.map": "/robocat-searchfunc/static/js/runtime-main.a257f370.js.map",
+    "static/js/2.2f9d99e6.chunk.js": "/robocat-searchfunc/static/js/2.2f9d99e6.chunk.js",
+    "static/js/2.2f9d99e6.chunk.js.map": "/robocat-searchfunc/static/js/2.2f9d99e6.chunk.js.map",
+    "index.html": "/robocat-searchfunc/index.html",
+    "precache-manifest.309d5f18e786bfb3f1a834c2c7a525aa.js": "/robocat-searchfunc/precache-manifest.309d5f18e786bfb3f1a834c2c7a525aa.js",
+    "service-worker.js": "/robocat-searchfunc/service-worker.js",
+    "static/css/main.fb2116b5.chunk.css.map": "/robocat-searchfunc/static/css/main.fb2116b5.chunk.css.map",
+    "static/js/2.2f9d99e6.chunk.js.LICENSE.txt": "/robocat-searchfunc/static/js/2.2f9d99e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a257f370.js",
+    "static/js/2.2f9d99e6.chunk.js",
+    "static/css/main.fb2116b5.chunk.css",
+    "static/js/main.28fbca34.chunk.js"
+  ]
+}
